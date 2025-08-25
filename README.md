@@ -6,8 +6,6 @@ It is designed like a **scheme of work**: each week has focused topics, implemen
 
 👉 Follow it linearly for best results.
 
-[![Progress](https://img.shields.io/badge/Progress-0%25-red)](#) 
-
 Made with ❤️ by [Eze Williams](https://x.com/mysticwillz)
  
 ---
